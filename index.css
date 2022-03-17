@@ -1,0 +1,175 @@
+@media only screen and (min-width:800px) and (max-width:2000px){
+      
+             *{
+                 padding:0px;
+                 margin:0px;
+             }
+
+             .boder{
+                 background-color:rgb(0, 10, 17);
+             }
+
+             .imagecontainer{
+               margin-top:none;
+                 width:100%;
+                 position: relative;
+                 padding:30px;
+
+             }
+ 
+              .imagecontainer img{
+                  width:100%;
+                  height:800px;
+                  border-radius:2px;
+                  box-shadow: rgba(40px , 40px , 40px , 0.5) 7px 7px 7px;
+                  border-radius:15px; 
+              } 
+
+              .imagecontainer p{
+                position:absolute;
+                 color:cornsilk;
+                 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                 font-size: 20px;
+                
+                 top:50px;
+                 left:30px;
+                 width:400px;
+                 padding:40px;
+                   
+              }
+
+              .imagecontainer .cont2{
+           
+                  padding:40px;
+                  width:400px;
+                  top:400px;
+                  left:1100px;
+              }
+
+              .imagecontainer button{
+                  position:absolute;
+                  background-color:yellow;
+                  top:700px;
+                  left:70px;
+                  padding:15px;
+                  border:none;
+                  width:320px;
+                  border-radius:25px;
+              }
+
+              .imagecontainer button a{
+                  color:black;
+                  text-decoration: none;
+                  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+              }
+
+
+              .imagecontainer .buttoner{
+                  position:absolute;
+                  top:700px;
+                  left:1140px;
+                  width:320px;
+                  border:none;
+                  border-radius:25px;
+                  padding:15px;
+              }
+
+              .imagecontainer .buttoner a{
+                  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                  font-size: 18px;
+                  color:black;
+
+              }
+
+
+              
+              
+
+
+
+
+}
+
+@media only screen and (min-width:300px) and (max-width:415px){
+          *{
+              padding:0px;
+              margin:0px;
+          }
+
+          .boder{
+              background-color:rgb(0, 10, 17);
+          }
+
+          .imagecontainer{
+        
+              width:100%;
+              padding:10px;
+              position:relative;
+
+
+            
+          }
+
+          .imagecontainer img{
+              width:100%;
+              height:1000px;
+            
+              text-shadow: rgba(40px , 40px , 40px , 0.5) 4px 4px 4px;
+          }
+          
+          .imagecontainer p{
+              position:absolute;
+              color:cornsilk;
+              font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+              font-size:18px;
+              top:500px;
+              left:20px;
+            
+          }
+
+          .imagecontainer .cont2{
+              top:680px;
+              
+          }
+
+          .imagecontainer button{
+                 position:absolute;
+                 top:850px;
+                 left:35px;
+                 border-radius:25px;
+                 padding:15px;
+                 width:300px;
+                 border:none;
+                 background-color: yellow;
+
+          }
+
+          .imagecontainer button a{
+              font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+              font-size:18px;
+              color:black;
+              text-decoration:none;
+          }
+
+
+          .imagecontainer .buttoner{
+              position:absolute;
+              top:950px;
+              left:30px;
+              width:300px;
+              padding:15px;
+              border:none;
+              border-radius:25px;
+ 
+            }
+
+            .imagecontainer .buttoner a{
+                color:black;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-size:18px;
+                text-decoration:none;
+            }
+
+       
+         
+}
